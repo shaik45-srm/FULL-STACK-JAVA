@@ -173,3 +173,6 @@ The page is designed to be responsive, ensuring a seamless experience on desktop
 ---
 
 Feel free to adapt or expand the content as needed. This README gives a comprehensive overview of your project, the technologies used, and how someone can set up and contribute to it!
+
+## Contact
+For queries or collaboration, contact [MURALI SAI V]&[SAMEER SK] at [mv8039@srmist.edu.in]&[ss7268@srmist.edu.in].
